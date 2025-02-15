@@ -1,7 +1,3 @@
-Sure, here's an extended version of the README file for your repository `FYLLA-Design-Agency`:
-
----
-
 # FYLLA Design Agency
 
 Welcome to the FYLLA Design Agency repository. This project showcases the various design capabilities and web development skills using HTML, SCSS, and CSS.
@@ -14,7 +10,6 @@ Welcome to the FYLLA Design Agency repository. This project showcases the variou
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
@@ -79,14 +74,6 @@ Here are some of the recent commits:
 
 We welcome contributions to this project. Please fork the repository and submit pull requests for any improvements or new features. Make sure to follow the coding standards and guidelines provided.
 
-## License
-
-This project is not currently licensed.
-
 ## Contact
 
 For any questions or inquiries, please contact [Ritesh Kumar Giri](https://github.com/ritesh5001) through GitHub.
-
----
-
-Please let me know if you would like to make any further adjustments or if I should proceed to commit this README file to your repository.
